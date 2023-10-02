@@ -49,7 +49,7 @@ class linear_regression_analyzer:
       'predicted_response': y_pred,
     }
   
-  def polynomial_regression(self, x_var, y_var, include_bias = False, fit_intercept = False):
+  def polynomial_regression(self, x_var, y_var, include_bias = False, fit_intercept = True):
     x_ = PolynomialFeatures(degree=2, include_bias=include_bias).fit_transform(x_var)
 
     model = LinearRegression(fit_intercept=fit_intercept).fit(x_, y_var)
