@@ -67,7 +67,7 @@ class linear_regression_analyzer:
     }
 
   def detailed_OLS_linear_regression(slef, x_var, y_var):
-    x = sm.add_constant(x)
+    x = sm.add_constant(x_var)
     model = sm.OLS(y_var, x)
     results = model.fit()
     predicted = results.predict(x)
