@@ -1,0 +1,13 @@
+https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+https://www.w3schools.com/python/python_ml_linear_regression.asp
+
+https://www.geeksforgeeks.org/linear-regression-python-implementation/
+
+https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/
+
+https://realpython.com/linear-regression-in-python/ *Readed*
+
+https://www.projectpro.io/recipes/plot-regression-line-of-sklearn-model-matplotlib
