@@ -11,3 +11,9 @@ https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/
 https://realpython.com/linear-regression-in-python/ *Readed*
 
 https://www.projectpro.io/recipes/plot-regression-line-of-sklearn-model-matplotlib
+
+https://www.nbshare.io/notebook/819279082/Regularization-Techniques-in-Linear-Regression-With-Python/ (
+
+  "Regularization is used to prevent overfitting"
+  
+)
